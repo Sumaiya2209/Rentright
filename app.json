@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "expo": {
     "name": "RentRight",
     "slug": "RentRight",
@@ -47,4 +48,8 @@
       "reactCompiler": true
     }
   }
+=======
+  "name": "firstProject",
+  "displayName": "firstProject"
+>>>>>>> 2379b3a0e3f36cb407beb02f77ee2aa7c674c960
 }

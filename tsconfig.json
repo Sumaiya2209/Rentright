@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
     "strict": true,
@@ -21,3 +22,12 @@
     "nativewind-env.d.ts"
   ]
 }
+=======
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    "types": ["jest"],
+  },
+  "include": ["**/*.ts", "**/*.tsx", "App.js"],
+  "exclude": ["**/node_modules", "**/Pods"]
+}
+>>>>>>> 2379b3a0e3f36cb407beb02f77ee2aa7c674c960
